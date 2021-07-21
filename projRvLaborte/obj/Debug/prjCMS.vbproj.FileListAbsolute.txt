@@ -1,0 +1,286 @@
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCMS.vbproj.GenerateResource.Cache
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.MainForm.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.GenerateResource.Cache
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.exe.config
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Interop.COMRD800Lib.dll
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.exe
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.xml
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\Card Issuance POS System.pdb
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.exe
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.pdb
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Card Issuance POS System.xml
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\bin\Debug\Interop.COMRD800Lib.dll
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\ResolveAssemblyReference.cache
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAbout.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogo.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmPrinter.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetPOS.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAccounts.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCharging.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReportView.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCoupon.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogin.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReports.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSelectTr.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmD8settings.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmDbSettings.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmEvent.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetOR.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettings.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.MainForm.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettled.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmStation.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSystem.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTender.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTransact.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.Resources.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.GenerateResource.Cache
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyPts.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmIssueLC.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyCard.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Interop.COMRD800Lib.dll
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Interop.COMRD800Lib.dll
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\ResolveAssemblyReference.cache
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAbout.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmIssueLC.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogo.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyCard.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyPts.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmPrinter.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetPOS.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAccounts.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCharging.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReportView.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCoupon.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogin.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReports.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSelectTr.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmD8settings.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmDbSettings.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmEvent.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetOR.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettings.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.MainForm.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettled.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmStation.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSystem.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTender.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTransact.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.Resources.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.GenerateResource.Cache
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmInternal.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyRec.resources
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.exe.config
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.exe
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.pdb
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.xml
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.exe
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.xml
+F:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.pdb
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.exe.config
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Interop.COMRD800Lib.dll
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.exe
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.xml
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.pdb
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.exe
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.pdb
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.xml
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Interop.COMRD800Lib.dll
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\ResolveAssemblyReference.cache
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAbout.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmInternal.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmIssueLC.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogo.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyCard.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyPts.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyRec.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmPrinter.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetPOS.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAccounts.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCharging.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReportView.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCoupon.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogin.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReports.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSelectTr.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmD8settings.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmDbSettings.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmEvent.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetOR.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettings.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.MainForm.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettled.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmStation.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSystem.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTender.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTransact.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.Resources.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.GenerateResource.Cache
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmActivation.resources
+G:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetTrial.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.exe.config
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.exe
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.xml
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\Card Management System.pdb
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.exe
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.pdb
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Card Management System.xml
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmActivation.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmInternal.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmIssueLC.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyCard.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyPts.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLoyaltyRec.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetTrial.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.MainForm.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\ProjectF\VB\Card Management System\Card Management System v2\prjCMS\prjCMS\obj\Debug\prjCMS.vbproj.GenerateResource.Cache
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\prjCMS\bin\Debug\Card Management System.exe.config
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\prjCMS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\prjCMS\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\prjCMS\obj\Debug\Card Management System.exe
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\prjCMS\obj\Debug\Card Management System.xml
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\prjCMS\obj\Debug\Card Management System.pdb
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\bin\Debug\Card Management System.exe.config
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCMS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\Card Management System.exe
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\Card Management System.xml
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\Card Management System.pdb
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\bin\Debug\Card Management System.exe
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\bin\Debug\Card Management System.pdb
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\bin\Debug\Card Management System.xml
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCMS.vbprojResolveAssemblyReference.cache
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmActivation.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmInternal.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmIssueLC.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmLoyaltyCard.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmLoyaltyPts.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmLoyaltyRec.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmSetTrial.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.MainForm.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\ProjectF\VB\VS2013\Card Management System\RVLaborte\projRvLaborte\obj\Debug\prjCMS.vbproj.GenerateResource.Cache

@@ -1,0 +1,253 @@
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\VB\VB 8\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.GenerateResource.Cache
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmPrinter.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetPOS.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAbout.resources
+F:\PROGRAMS\VB\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\FERNAN\PROJECTS\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.GenerateResource.Cache
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAbout.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogo.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmPrinter.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetPOS.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+E:\PROGRAMS\VB\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.GenerateResource.Cache
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\SIKATUNA PROJECT\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAbout.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogo.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmPrinter.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetPOS.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmAccounts.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCharging.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReportView.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmCoupon.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmLogin.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmReports.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSelectTr.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmD8settings.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmDbSettings.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmEvent.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSetOR.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettings.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmMain.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSettled.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmStation.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmSystem.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTender.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.frmTransact.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.Resources.resources
+D:\PROGRAMS\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.GenerateResource.Cache
+D:\PROGRAMS\1SA\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\1SA\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\1SA\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\1SA\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\1SA\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\1SA\VB\VB 8\RV LABORTE Proj\Card Isuance Access Software\CpPOS\prjCpPOS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\bin\Debug\Card Issuance POS System.exe.config
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Interop.COMRD800Lib.dll
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\prjCpPOS.vbproj.ResolveComReference.cache
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Card Issuance POS System.exe
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Card Issuance POS System.xml
+D:\PROGRAMS\ProjectF\VB\Turnstile Card Management System\Card Management System\prjCMS\prjCpPOS\obj\Debug\Card Issuance POS System.pdb
