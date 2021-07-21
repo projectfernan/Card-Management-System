@@ -271,7 +271,7 @@ Partial Class frmMain
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(318, 20)
         Me.Label2.TabIndex = 14
-        Me.Label2.Text = "CARD ACCESS ISSUANCE SYSTEM"
+        Me.Label2.Text = "CARD MANAGEMENT SYSTEM"
         '
         'SplitContainer4
         '
